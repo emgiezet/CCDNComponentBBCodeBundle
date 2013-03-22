@@ -1,5 +1,5 @@
 {
-    "name": "codeconsortium/ccdn-component-bb-code-bundle",
+    "name": "emgiezet/ccdn-component-bb-code-bundle",
     "type": "symfony-bundle",
     "description": "CCDN Component BBCode Bundle",
     "keywords": ["ccdn", "codeconsortium", "bulletin code", "BB code", "markup", "parser"],
