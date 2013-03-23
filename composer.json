@@ -1,7 +1,7 @@
 {
     "name": "emgiezet/ccdn-component-bb-code-bundle",
     "type": "symfony-bundle",
-    "description": "CCDN Component BBCode Bundle",
+    "description": "CCDN Component BBCode Bundle for symfony 2.2",
     "keywords": ["ccdn", "codeconsortium", "bulletin code", "BB code", "markup", "parser"],
     "homepage": "http://github.com/codeconsortium/CCDNComponentBBCodeBundle",
     "license": "MIT",
@@ -9,6 +9,9 @@
         {
             "name": "reecefowell",
             "email": "reece@codeconsortium.com"
+        },
+        {
+            "name": "emgiezet"
         }
     ],
     "minimum-stability": "dev",
